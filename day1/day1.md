@@ -1,0 +1,1 @@
+This is day 1 text of the blog post.
